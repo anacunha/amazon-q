@@ -7,4 +7,4 @@
 ----
 
 - [AWS Community Day Brasil](https://awscommunityday.com.br/)
-- 
+- [Como construir uma aplicação do zero com IA Generativa](https://www.youtube.com/playlist?list=PLQHh55hXC4yrlnKxKDsLPFl5O6sTfXWHu)
